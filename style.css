@@ -87,6 +87,7 @@ li{
   bottom: 1em;
   width: 13em;
   animation-play-state: paused;
+  cursor: pointer;
 }
 .cat2:hover {
   animation: shake 0.5s infinite;
